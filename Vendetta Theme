@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
       "BACKGROUND_ACCENT": [
-      "#ff003c"
+      "#000000"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
       "#000000"
@@ -18,7 +18,7 @@
       "#000000"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-      "#170005"
+      "#000000"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
       "#000000"
