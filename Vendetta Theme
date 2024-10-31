@@ -93,10 +93,10 @@
       "#c7c7c7"
       ],
       "TEXT_LINK": [
-      "#90D5FF"
+      "#f3e600"
       ],
       "TEXT_MUTED": [
-      "#f3e600"
+      "#c7c7c7"
       ],
       "TEXT_NORMAL": [
       "#c7c7c7"
@@ -115,7 +115,7 @@
       "BRAND_260": "#f3e600",
       "BRAND_360": "#c7c7c7",
       "BRAND_500": "#f3e600",
-      "GREEN_100": "#72eaf8",
+      "GREEN_100": "#f3e600",
       "GREEN_130": "#f3e600",
       "GREEN_160": "#f3e600",
       "GREEN_200": "#f3e600",
