@@ -12,7 +12,7 @@
       "#000000"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
-      "#000000"
+      "transparent"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
       "#000000"
@@ -63,10 +63,10 @@
       "#000000"
       ],
       "HEADER_PRIMARY": [
-      "#72eaf8"
+      "#f3e600"
       ],
       "HEADER_SECONDARY": [
-      "#72eaf8"
+      "#f3e600"
       ],
       "HOME_BACKGROUND": [
       "#000000"
