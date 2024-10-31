@@ -24,10 +24,10 @@
       "#000000"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-      "#170005"
+      "#000000"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-      "#170005"
+      "#000000"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
       "#000000"
@@ -36,10 +36,10 @@
       "#000000"
       ],
       "BACKGROUND_SECONDARY": [
-      "#170005"
+      "#000000"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-      "#170005"
+      "#000000"
       ],
       "BACKGROUND_TERTIARY": [
       "#000000"
@@ -69,7 +69,7 @@
       "#72eaf8"
       ],
       "HOME_BACKGROUND": [
-      "#170005"
+      "#000000"
       ],
       "INTERACTIVE_ACTIVE": [
       "#f3e600"
@@ -209,9 +209,9 @@
         "PLUM_23": "#170005"
    },
         "background": {
-        "blur": 1.0,
+        "blur": 5.0,
         "url": "https://raw.githubusercontent.com/LiamGo2/Vendetta-Theme/refs/heads/main/images.jpeg?token=GHSAT0AAAAAACZ2ANX62FWQIKX7DOTUGG6UZZEACUA",
-        "alpha": 1.0
+        "alpha": 0.0
     },
     "spec": 2
 }
