@@ -54,10 +54,10 @@
       "#ff003c"
       ],
       "CHANNEL_ICON": [
-      "#ff003c"
+      "#transparent"
       ],
       "CHANNELS_DEFAULT": [
-      "#72eaf8"
+      "#transparent"
       ],
       "CHAT_BACKGROUND": [
       "transparent"
