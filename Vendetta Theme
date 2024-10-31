@@ -9,40 +9,40 @@
     ],
     "semanticColors": {
       "BACKGROUND_ACCENT": [
-      "#000000"
+      "transparent"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
       "transparent"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-      "#000000"
+      "transparent"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-      "#000000"
+      "transparent"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-      "#000000"
+      "transparent"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-      "#000000"
+      "transparent"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-      "#000000"
+      "transparent"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-      "#000000"
+      "transparent"
       ],
       "BACKGROUND_PRIMARY": [
-      "#000000"
+      "transparent"
       ],
       "BACKGROUND_SECONDARY": [
-      "#000000"
+      "transparent"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-      "#000000"
+      "transparent"
       ],
       "BACKGROUND_TERTIARY": [
-      "#000000"
+      "#transparent"
       ],
       "BORDER_FAINT": [
       "#ff003c"
