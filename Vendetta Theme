@@ -60,7 +60,7 @@
       "#72eaf8"
       ],
       "CHAT_BACKGROUND": [
-      "#000000"
+      "transparent"
       ],
       "HEADER_PRIMARY": [
       "#f3e600"
@@ -69,7 +69,7 @@
       "#f3e600"
       ],
       "HOME_BACKGROUND": [
-      "#000000"
+      "transparent"
       ],
       "INTERACTIVE_ACTIVE": [
       "#f3e600"
@@ -84,7 +84,7 @@
       "#7e5f5f"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#000000"
+      "transparent"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
       "#120707"
@@ -105,10 +105,10 @@
       "#c7c7c7"
       ],
       "CARD_PRIMARY_BG": [
-      "#000000"
+      "transparent"
       ],
       "CARD_SECONDARY_BG": [
-      "#000000"
+      "transparent"
       ]
     },
     "rawColors": {
