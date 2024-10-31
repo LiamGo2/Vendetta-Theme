@@ -199,14 +199,14 @@
       "YELLOW_900": "#c7c7c7",
       "WHITE_500": "#c7c7c7",
     "PLUM_13": "#181818",
-        "PLUM_15": "#170005",
+        "PLUM_15": "transparent",
         "PLUM_16": "transparent",
-        "PLUM_17": "#170005",
-        "PLUM_18": "#170005",
+        "PLUM_17": "transparent",
+        "PLUM_18": "transparent",
         "PLUM_19": "transparent",
         "PLUM_20": "transparent",
         "PLUM_22": "transparent",
-        "PLUM_23": "#170005"
+        "PLUM_23": "transparent"
    },
         "background": {
         "blur": 5.0,
