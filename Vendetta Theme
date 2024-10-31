@@ -90,13 +90,13 @@
       "transparent"
       ],
       "TEXT_DANGER": [
-      "#ff003c"
+      "#c7c7c7"
       ],
       "TEXT_LINK": [
-      "#f3e600"
+      "#0000EE"
       ],
       "TEXT_MUTED": [
-      "#ff003c"
+      "#c7c7c7"
       ],
       "TEXT_NORMAL": [
       "#c7c7c7"
