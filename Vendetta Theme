@@ -75,13 +75,13 @@
       "#f3e600"
       ],
       "INTERACTIVE_HOVER": [
-      "#72eaf8"
+      "#f3e600"
       ],
       "INTERACTIVE_MUTED": [
-      "#6e6a86"
+      "#f3e600"
       ],
       "INTERACTIVE_NORMAL": [
-      "#7e5f5f"
+      "#f3e600"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "transparent"
