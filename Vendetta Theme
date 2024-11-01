@@ -209,9 +209,9 @@
         "PLUM_23": "transparent"
    },
         "background": {
-        "blur": 0.0,
+        "blur": 1.0,
         "url": "https://raw.githubusercontent.com/LiamGo2/Vendetta-Theme/refs/heads/main/e016e748-acc8-4417-929d-8886fb19a82e.jpeg?token=GHSAT0AAAAAACZ2ANX6PVQC3X62VAJJPR6EZZEEMSA",
-        "alpha": 1.0
+        "alpha": 0.5
     },
     "spec": 2
 }
